@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=M-USB1-6
+Removed Pin From Net: NetName=GND Pin=M-USB1-7
+Removed Pin From Net: NetName=GND Pin=M-USB1-8
+Removed Pin From Net: NetName=GND Pin=M-USB1-9
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=GND Pin=SW1-5
+Removed Pin From Net: NetName=GND Pin=SW1-6
+Removed Pin From Net: NetName=GND Pin=SW1-7
+Removed Pin From Net: NetName=GND Pin=SW1-a
+Removed Pin From Net: NetName=GND Pin=SW1-a
+Removed Pin From Net: NetName=NetM-USB1_2 Pin=TVS1-1
+Removed Pin From Net: NetName=NetM-USB1_3 Pin=TVS1-3
+Removed Pin From Net: NetName=NetM-USB1_3 Pin=TVS1-4
+Removed Pin From Net: NetName=NetM-USB1_2 Pin=TVS1-6
+Added Pin To Net: NetName=NetM-USB1_3 Pin=TVS1-1
+Added Pin To Net: NetName=NetM-USB1_2 Pin=TVS1-3
+Added Pin To Net: NetName=NetM-USB1_2 Pin=TVS1-4
+Added Pin To Net: NetName=NetM-USB1_3 Pin=TVS1-6
+Added Member To Class: ClassName=Power Management Member=Component J1 PJ-037AH-SMT-TR

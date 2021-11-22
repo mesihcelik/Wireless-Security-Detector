@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [HedefProjem.PcbDoc]
+   Generated File[HedefProjem.GTO]
+   Generated File[HedefProjem.GTP]
+   Generated File[HedefProjem.GTS]
+   Generated File[HedefProjem.GTL]
+   Generated File[HedefProjem.GP1]
+   Generated File[HedefProjem.GP2]
+   Generated File[HedefProjem.GBL]
+   Generated File[HedefProjem.GBS]
+   Generated File[HedefProjem.GBP]
+   Generated File[HedefProjem.GBO]
+   Generated File[HedefProjem.GM3]
+   Generated File[HedefProjem.GM5]
+   Generated File[HedefProjem.GM6]
+   Generated File[HedefProjem.GM7]
+   Generated File[HedefProjem.GKO]
+   Generated File[HedefProjem.GPT]
+   Generated File[HedefProjem.GPB]
+   Generated File[HedefProjem.RUL]
+   Generated File[HedefProjem.EXTREP]
+   Generated File[HedefProjem.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 04:51:30 On 22.11.2021

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Y.B\Altium Designer Depo\Hedef Proje\HedefProje\HedefProjem.PcbDoc
+RuleKind=Clearance|RuleName=Ýþlemci|Scope=Board|Minimum=9.00
+RuleKind=Clearance|RuleName=USB 1 Aralýðý|Scope=Board|Minimum=9.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

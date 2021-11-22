@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TEMP_ADC Pin=J8-4
+Removed Pin From Net: NetName=LED_S Pin=J8-5
+Removed Pin From Net: NetName=NetJ7_3 Pin=U4-18
+Removed Pin From Net: NetName=WIFI_EN Pin=U4-20
+Added Pin To Net: NetName=LED_S Pin=J8-4
+Added Pin To Net: NetName=TEMP_ADC Pin=J8-5
+Added Pin To Net: NetName=WIFI_EN Pin=U4-18
+Added Pin To Net: NetName=NetJ7_3 Pin=U4-20

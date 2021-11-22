@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=WIFI_EN Pin=U6-3
+Added Pin To Net: NetName=5VDC Pin=C6-2
+Added Pin To Net: NetName=5VDC Pin=D3-1
+Added Pin To Net: NetName=5VDC Pin=L1-1
+Added Pin To Net: NetName=5VDC Pin=U2-8
+Added Pin To Net: NetName=WIFI_OUT Pin=U6-3

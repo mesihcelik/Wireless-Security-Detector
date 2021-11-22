@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BUZZER Pin=U4-22
+Removed Pin From Net: NetName=SENSOR ON/OFF Pin=U4-27
+Added Pin To Net: NetName=SENSOR ON/OFF Pin=U4-22
+Added Pin To Net: NetName=BUZZER Pin=U4-27

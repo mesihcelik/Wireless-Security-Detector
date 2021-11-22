@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJ7_4 Pin=J8-3
+Removed Pin From Net: NetName=TEMP_ADC Pin=J8-4
+Removed Pin From Net: NetName=LED_S Pin=J8-5
+Removed Pin From Net: NetName=NetJ7_3 Pin=U4-19
+Removed Pin From Net: NetName=NetJ7_2 Pin=U4-20
+Removed Pin From Net: NetName=NetJ7_4 Pin=U4-21
+Removed Pin From Net: NetName=NetJ7_4 Pin=U8-8
+Added Pin To Net: NetName=TEMP_ADC Pin=J8-3
+Added Pin To Net: NetName=LED_S Pin=J8-4
+Added Pin To Net: NetName=NetJ7_2 Pin=J8-5
+Added Pin To Net: NetName=NetJ7_4 Pin=U4-19
+Added Pin To Net: NetName=NetJ7_3 Pin=U4-20
+Added Pin To Net: NetName=NetJ7_2 Pin=U4-21
+Added Pin To Net: NetName=NetJ7_2 Pin=U8-8

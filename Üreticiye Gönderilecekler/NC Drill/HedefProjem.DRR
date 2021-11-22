@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HedefProjem.PcbDoc   22.11.2021  04:33:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HedefProjem.TXT
+ASCII RectHoles File : HedefProjem-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Rectangle         2         PTH        1.43inch (36.30mm)
+T2      14mil (0.35mm)                                            Round             60        PTH        14.53inch (369.03mm)
+T3      24mil (0.6mm)                                             Rectangle         4         PTH        2.11inch (53.55mm)
+T4      28mil (0.7mm)                                             Round             7         PTH        4.44inch (112.66mm)
+T5      32mil (0.8mm)                                             Round             14        PTH        2.12inch (53.83mm)
+T6      35mil (0.9mm)                                             Round             6         PTH        4.36inch (110.66mm)
+T7      36mil (0.92mm)                                            Round             2         PTH        0.12inch (3.00mm)
+T8      51mil (1.3mm)                                             Round             10        PTH        3.29inch (83.66mm)
+T9      69mil (1.75mm)                                            Round             6         PTH        2.45inch (62.17mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              111
+
+Total Processing Time (hh:mm:ss) : 00:00:01

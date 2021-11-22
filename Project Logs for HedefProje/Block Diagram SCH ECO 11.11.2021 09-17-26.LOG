@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U4-12 Old Name=PA2 New Designator =USART1_RX New Name=31
+Change Pin Designator/Name:  Old Designator=U4-13 Old Name=PA3 New Designator =USART1_TX New Name=30
+Change Pin Designator/Name:  Old Designator=U4-30 Old Name=USART1_TX New Designator =PA2 New Name=12
+Change Pin Designator/Name:  Old Designator=U4-31 Old Name=USART1_RX New Designator =PA3 New Name=13

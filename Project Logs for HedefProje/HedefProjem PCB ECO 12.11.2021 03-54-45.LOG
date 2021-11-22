@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=Designator3-1
+Removed Pin From Net: NetName=GND Pin=Designator3-2
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=3.3VDC Pin=U6-2
+Removed Pin From Net: NetName=WIFI_OUT Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-15
+Removed Pin From Net: NetName=NetR19_1 Pin=U6-34
+Removed Pin From Net: NetName=NetR20_1 Pin=U6-35
+Removed Pin From Net: NetName=GND Pin=U6-38
+Removed Member From Class: ClassName=Microcontroller Member=U6
+Added Component: Designator=U?(ESP32_32U)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "RF Receivers, Transceivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "150Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "GK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.5GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-WROOM-32U (8MB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "536KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=4,35000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 2"; Value = "650=4,35000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.48kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-98dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "142"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1904-1027-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1904-1027-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "25ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,GPIO,PWM,SDIO,UART"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=3.3VDC Pin=U?-2
+Added Pin To Net: NetName=WIFI_OUT Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=NetR19_1 Pin=U?-34
+Added Pin To Net: NetName=NetR20_1 Pin=U?-35
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Member To Class: ClassName=Microcontroller Member=Component U? ESP32-WROOM-32U (8MB)

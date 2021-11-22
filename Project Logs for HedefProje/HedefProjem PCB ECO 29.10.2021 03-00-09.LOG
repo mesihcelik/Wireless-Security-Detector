@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=WIFI_EN Pin=R16-1
+Removed Member From Class: ClassName=Microcontroller Member=R16
+Added Pin To Net: NetName=WIFI_EN Pin=U4-20

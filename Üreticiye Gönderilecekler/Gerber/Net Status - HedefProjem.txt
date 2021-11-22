@@ -1,0 +1,94 @@
+Net Status Report
+Filename     : C:\Y.B\Altium Designer Depo\Hedef Proje\HedefProje\HedefProjem.PcbDoc
+Date         : 18.11.2021
+Time         : 05:43:08
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12VDC, Signal Layers Only, 3464.455mils
+    3.3VDC, Signal Layers Only, 3852.292mils
+    3.3VDC_S, Signal Layers Only, 0mils
+    5VDC, Signal Layers Only, 100.95mils
+    AC_LINE_1, Signal Layers Only, 226.096mils
+    AC_LINE_2, Signal Layers Only, 977.77mils
+    BUZZER, Signal Layers Only, 1057.063mils
+    GND, Signal Layers Only, 2635.011mils
+    GND_S, Signal Layers Only, 483.02mils
+    LED_S, Signal Layers Only, 383.586mils
+    Light_1_GND, Signal Layers Only, 166.484mils
+    Light_1_VCC, Signal Layers Only, 543.13mils
+    Light_2_GND, Signal Layers Only, 194.861mils
+    Light_2_VCC, Signal Layers Only, 529.336mils
+    NRST, Signal Layers Only, 290.825mils
+    NetBJT1_1, Signal Layers Only, 0mils
+    NetBJT1_3, Signal Layers Only, 150.94mils
+    NetBJT2_1, Signal Layers Only, 0mils
+    NetBJT2_3, Signal Layers Only, 308.324mils
+    NetBJT3_1, Signal Layers Only, 44.914mils
+    NetBJT3_3, Signal Layers Only, 216.675mils
+    NetBJT4_1, Signal Layers Only, 632.728mils
+    NetBJT5_1, Signal Layers Only, 196.359mils
+    NetBJT5_3, Signal Layers Only, 103.712mils
+    NetBR1_2, Signal Layers Only, 0mils
+    NetBR1_3, Signal Layers Only, 0mils
+    NetBR1_4, Signal Layers Only, 1318.73mils
+    NetC32_1, Signal Layers Only, 250.563mils
+    NetC32_2, Signal Layers Only, 239.857mils
+    NetC33_2, Signal Layers Only, 74.069mils
+    NetC35_2, Signal Layers Only, 73.831mils
+    NetC36_2, Signal Layers Only, 314.544mils
+    NetC37_1, Signal Layers Only, 161.46mils
+    NetC37_2, Signal Layers Only, 51.181mils
+    NetC38_2, Signal Layers Only, 362.664mils
+    NetC39_2, Signal Layers Only, 177.555mils
+    NetC43_2, Signal Layers Only, 146.896mils
+    NetC6_1, Signal Layers Only, 0mils
+    NetC6_2, Signal Layers Only, 0mils
+    NetD4_2, Signal Layers Only, 122.579mils
+    NetD5_1, Signal Layers Only, 107.586mils
+    NetD5_2, Signal Layers Only, 55.749mils
+    NetD6_2, Signal Layers Only, 98.366mils
+    NetJ6_2, Signal Layers Only, 1192.639mils
+    NetJ6_3, Signal Layers Only, 1446.735mils
+    NetJ6_4, Signal Layers Only, 1544.849mils
+    NetJ7_2, Signal Layers Only, 820.224mils
+    NetJ7_3, Signal Layers Only, 801.573mils
+    NetJ7_4, Signal Layers Only, 785.265mils
+    NetJ8_5, Signal Layers Only, 1360.132mils
+    NetR10_2, Signal Layers Only, 76.603mils
+    NetR11_2, Signal Layers Only, 500.794mils
+    NetR12_2, Signal Layers Only, 0mils
+    NetR13_2, Signal Layers Only, 100.404mils
+    NetR17_2, Signal Layers Only, 0mils
+    NetR18_1, Signal Layers Only, 1044.665mils
+    NetR19_1, Signal Layers Only, 1213.474mils
+    NetR1_2, Signal Layers Only, 680.385mils
+    NetR22_1, Signal Layers Only, 0mils
+    NetR25_2, Signal Layers Only, 557.924mils
+    NetR29_1, Signal Layers Only, 163.337mils
+    NetR32_2, Signal Layers Only, 60.611mils
+    NetR35_2, Signal Layers Only, 100.701mils
+    NetR3_2, Signal Layers Only, 431.884mils
+    NetR4_2, Signal Layers Only, 492.046mils
+    NetR7_2, Signal Layers Only, 494.401mils
+    NetU5_1, Signal Layers Only, 0mils
+    NetU5_2, Signal Layers Only, 22.182mils
+    OSC_N, Signal Layers Only, 780.232mils
+    OSC_P, Signal Layers Only, 780.232mils
+    RTC_ SDA, Signal Layers Only, 704.621mils
+    RTC_SCL, Signal Layers Only, 694.308mils
+    SENSOR ON/OFF, Signal Layers Only, 604.634mils
+    TEMP_ADC, Signal Layers Only, 589.377mils
+    TEMP_IN_CS, Signal Layers Only, 62.271mils
+    TEMP_IN_OT, Signal Layers Only, 241.532mils
+    TEMP_IN_SCLK, Signal Layers Only, 83.84mils
+    TEMP_IN_SIO, Signal Layers Only, 255.922mils
+    USB1_N, Signal Layers Only, 262.687mils
+    USB1_P, Signal Layers Only, 262.687mils
+    USB_N, Signal Layers Only, 911.595mils
+    USB_P, Signal Layers Only, 911.78mils
+    WIFI_EN, Signal Layers Only, 174.848mils
+    WIFI_OUT, Signal Layers Only, 630.033mils
+    WIFI_RXD, Signal Layers Only, 298.746mils
+    WIFI_TXD, Signal Layers Only, 82.245mils
+count : 86

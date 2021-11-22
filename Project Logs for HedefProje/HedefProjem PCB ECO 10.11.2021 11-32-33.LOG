@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetM-USB1_2 New Net Name=USB_N
+Change Net Name : Old Net Name=NetM-USB1_3 New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Class: Name=USB

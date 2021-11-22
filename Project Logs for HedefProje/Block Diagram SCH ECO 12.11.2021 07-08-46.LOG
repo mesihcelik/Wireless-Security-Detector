@@ -1,0 +1,2 @@
+Remove Pin=J8-3 From Net=TEMP_ADC
+Remove Pin=J8-4 From Net=LED_S
