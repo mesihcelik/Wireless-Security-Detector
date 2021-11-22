@@ -15,8 +15,8 @@
 * 1 adet Micro USB
 ## Sensör Kartı
 ### Entegreler
-1 adet PIR sensör
-1 adet Temperature Sensor
+*1 adet PIR sensör
+*1 adet Temperature Sensor
 ### Özellikler
 * Wireless ile haberleşme
 * PIR sensörü ile ortamdaki hareketleri tespit ederek çeşitli işlemler yapabilir
