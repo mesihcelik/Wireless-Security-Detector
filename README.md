@@ -1,6 +1,6 @@
 # Wireless-Security-Detector
-![3DPCB](https://github.com/mesihcelik/Wireless-Security-Detector/blob/main/info/3D%20PCB%20G%C3%B6r%C3%BCn%C3%BCm.PNG)
-![Şchematic](https://github.com/mesihcelik/Wireless-Security-Detector/blob/3943b2fdb7053dc3f2acb4884bc9f80482722b77/info/Microcontroller%20Schematic.png)
+![3DPCB]()
+![Şchematic]()
 ## Ana Kart
 ### Entegreler
 * 2 adet 220V Controller Relay
