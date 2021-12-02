@@ -1,6 +1,6 @@
 # Wireless-Security-Detector
-![3DPCB]()
-![Şchematic]()
+![3DPCB](info/3D PCB Görünüm.PNG)
+![Block Diagram](info/Schematic/Block Diagram.jpg)
 ## Ana Kart
 ### Entegreler
 * 2 adet 220V Controller Relay
